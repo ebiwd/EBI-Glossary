@@ -1,0 +1,13 @@
+---
+layout: post
+title: "EGA"
+terms-related:
+- term1
+- term2
+terms-parent:
+- parent1
+categories:
+- XXX
+---
+
+European Genome-phenome Archive - A database that allows exploration of datasets from genomic studies.
